@@ -1,0 +1,4 @@
+base
+====
+
+Primeros pasos git
